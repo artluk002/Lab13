@@ -20,6 +20,5 @@ public class Main {
         tester1.printTesterInfo();
         System.out.println();
         tester2.printTesterInfo();
-
     }
 }
